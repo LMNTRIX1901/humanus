@@ -114,7 +114,7 @@ header #contact_btn:hover
 	/*margin-top: 60px;*/
 	display: flex;
 	height: 100vh;
-	background-image: url('./assets/banner.png');
+	background-image: url('./assets/banner.webp');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -217,7 +217,7 @@ footer
 {
 	display: flex;
 	/*justify-content: space-between;*/
-	    align-items: center;
+	align-items: center;
 	margin-top: 100px;
 	background: #4EA5D9;
 	padding: 30px;
