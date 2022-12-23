@@ -57,6 +57,7 @@ header #head_logo
 	object-position: center;
 	object-fit: contain;
 	transform: scale(1.1);
+	width: 250px;
 	margin: 0px 3vw 0px 3vw;
 	user-select: none;
 }
@@ -243,7 +244,7 @@ footer #contacts_container h1
 footer #contacts_container #phone
 {
 	margin: 20px 0px 20px 0px;
-	font-size: calc(18px*1.8)
+	font-size: calc(18px*1.8);
 }
 
 footer #address_clickable
