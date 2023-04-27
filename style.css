@@ -298,3 +298,26 @@ footer #gmaps_map:hover
 	outline: 5px solid #8CDF55;
 }
 
+
+
+#subfooter
+{
+	background: #347297;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	padding: 45px;
+}
+
+#subfooter a
+{
+	font-size: 20px;
+	color: white;
+	display: flex;
+	width: fit-content;
+	padding: 10px;
+}
+#subfooter a:hover
+{
+	color: #e1f98d;
+}
