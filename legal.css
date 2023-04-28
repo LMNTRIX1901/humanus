@@ -2,11 +2,14 @@
 
 
 ol {
-	counter-reset: item
+	counter-reset: item;
 }
+
 li {
-	display: block
+	display: block;
+	font-size: 20px;
 }
+
 li:before {
 	content: counters(item, ".") " ";
 	counter-increment: item;
@@ -34,7 +37,7 @@ section	h1, section	h2
 	text-align: center;
 }
 
-section ol li
+/*section ol li
 {
 	font-size: 20px;
-}
+}*/
